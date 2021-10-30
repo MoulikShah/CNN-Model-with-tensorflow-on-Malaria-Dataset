@@ -1,1 +1,1 @@
-# CNN-Model-with-tensorflow-on-Malaria-Dataset
+# CNN-Model-with-tensorflow-on-Mnist-Fashion-Dataset
